@@ -42,3 +42,4 @@ jobs:
 
         # Set output variable for next task
         echo "##vso[task.setvariable variable=JOB_NAME;isOutput=true;]$job_name"
+
